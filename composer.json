@@ -1,0 +1,15 @@
+{
+  "name": "a1essandro/heightmap-editor",
+  "description": "Cut, smoothing, overlaying etc. for height maps",
+  "license": "MIT",
+  "suggest": {
+    "a1essandro/diamond-and-square": "Heightmaps generator by Diamond-Square algorithm",
+    "a1essandro/perlin-noise": "Heightmaps generator by Perlin-Noise algorithm"
+  },
+  "authors": [
+    {
+      "name": "Alexander Yermakov",
+      "email": "alexander.yermakov.1990@gmail.com"
+    }
+  ]
+}
